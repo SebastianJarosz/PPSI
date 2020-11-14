@@ -1,19 +1,11 @@
-[class^="icon-"], [class*=" icon-"] {
-  font-family: 'call';
-  font-style: normal;
-  font-weight: normal;
- 
-  /* fix buttons height */
-  line-height: 1em;
- 
-  /* you can be more comfortable with increased icons size */
-  /* font-size: 120%; */
-}
- 
+
 .icon-call { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x37;&nbsp;'); }
 .icon-cog { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x2699;&nbsp;'); }
 .icon-cog-alt { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x26ef;&nbsp;'); }
+.icon-wrench { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe805;&nbsp;'); }
 .icon-location { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf031;&nbsp;'); }
+.icon-user-male { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf062;&nbsp;'); }
+.icon-user-female { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf063;&nbsp;'); }
 .icon-mail-alt { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0e0;&nbsp;'); }
 .icon-gauge { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0e4;&nbsp;'); }
 .icon-cube { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf1b2;&nbsp;'); }
@@ -21,4 +13,5 @@
 .icon-cab { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf1b9;&nbsp;'); }
 .icon-codeopen { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf1cb;&nbsp;'); }
 .icon-history { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf1da;&nbsp;'); }
-.icon-wrench { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x1f527;&nbsp;'); }
+.icon-wrench-1 { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x1f527;&nbsp;'); }
+.icon-hammer { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x1f528;&nbsp;'); }

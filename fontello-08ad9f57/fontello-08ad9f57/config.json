@@ -39,7 +39,7 @@
     {
       "uid": "5bb103cd29de77e0e06a52638527b575",
       "css": "wrench",
-      "code": 128295,
+      "code": 59397,
       "src": "fontawesome"
     },
     {
@@ -77,6 +77,30 @@
       "css": "call",
       "code": 55,
       "src": "zocial"
+    },
+    {
+      "uid": "dec0ce0476433f7e49e096526cf89465",
+      "css": "hammer",
+      "code": 128296,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "zc0c8s0nyweeeo9i8a3rucu7alwxt56r",
+      "css": "wrench-1",
+      "code": 128295,
+      "src": "modernpics"
+    },
+    {
+      "uid": "a6c0e3fce2fbe9ccf9b1c54c8f399106",
+      "css": "user-female",
+      "code": 61539,
+      "src": "mfglabs"
+    },
+    {
+      "uid": "e5fdc4247f1f9b3bf98d20a954e1327c",
+      "css": "user-male",
+      "code": 61538,
+      "src": "mfglabs"
     }
   ]
 }

@@ -20,6 +20,16 @@ html {
     font-size: 96px;
     text-align: center;
 }
+.my-rounded-circle-light{
+    height:162px;
+    width: 162px;
+    background-color: white;
+    border-radius: 81px;
+    margin: auto;
+    color: #34495E;
+    font-size: 96px;
+    text-align: center;
+}
 .my-rounded-circle-contact{
     height:64px;
     width: 64px;
@@ -43,12 +53,15 @@ html {
 .breaking-bg{
     background-color: #5c687f;
     color: white;
+    padding-top: 10vh;
+    padding-bottom: 5vh;
+    min-height:100vh;
+    margin-top: auto;
+    margin-bottom: auto;
 }
-#contact-button{
-    margin-left: auto;
-    margin-right: auto;
-}
-.breaking-bg{
+.breaking-bg-dark{
+    background-color: #0c1b36;
+    color: white;
     padding-top: 10vh;
     padding-bottom: 5vh;
     min-height:100vh;
@@ -120,4 +133,8 @@ html {
     min-height:100vh;
     margin-top: auto;
     margin-bottom: auto;
+}
+#contact-button{
+    margin-left: auto;
+    margin-right: auto;
 }

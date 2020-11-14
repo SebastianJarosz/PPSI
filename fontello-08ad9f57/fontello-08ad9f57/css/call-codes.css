@@ -4,7 +4,10 @@
 .icon-call:before { content: '\37'; } /* '7' */
 .icon-cog:before { content: '\2699'; } /* '⚙' */
 .icon-cog-alt:before { content: '\26ef'; } /* '⛯' */
+.icon-wrench:before { content: '\e805'; } /* '' */
 .icon-location:before { content: '\f031'; } /* '' */
+.icon-user-male:before { content: '\f062'; } /* '' */
+.icon-user-female:before { content: '\f063'; } /* '' */
 .icon-mail-alt:before { content: '\f0e0'; } /* '' */
 .icon-gauge:before { content: '\f0e4'; } /* '' */
 .icon-cube:before { content: '\f1b2'; } /* '' */
@@ -12,4 +15,5 @@
 .icon-cab:before { content: '\f1b9'; } /* '' */
 .icon-codeopen:before { content: '\f1cb'; } /* '' */
 .icon-history:before { content: '\f1da'; } /* '' */
-.icon-wrench:before { content: '🔧'; } /* '\1f527' */
+.icon-wrench-1:before { content: '🔧'; } /* '\1f527' */
+.icon-hammer:before { content: '🔨'; } /* '\1f528' */
